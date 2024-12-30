@@ -26,11 +26,11 @@ I created this repository aims to centralize everything related to web developme
 ## Repository Structure
 
 ### Resources
-- **Frontend**: HTML, CSS, JavaScript, frameworks (React, Vue.js, Angular), libraries (Bootstrap, Tailwind CSS).
-- **Backend**: Node.js, Django, Flask, Ruby on Rails.
-- **Databases**: MySQL, PostgreSQL, MongoDB.
-- **APIs**: REST, GraphQL.
-- **DevOps Tools**: Git, CI/CD, Docker.
+- **[[Frontend]]**: HTML, CSS, JavaScript, frameworks (React, Vue.js, Angular), libraries (Bootstrap, Tailwind CSS).
+- **[[Backend]]**: Node.js, Django, Flask, Ruby on Rails.
+- **[[Databases]]**: MySQL, PostgreSQL, MongoDB.
+- **[[APIs]]**: REST, GraphQL.
+- **[[DevOps]]**: Git, CI/CD, Docker.
 
 ### Tools
 - Local environments (XAMPP, Docker).
