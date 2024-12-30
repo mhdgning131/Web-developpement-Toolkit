@@ -21,7 +21,7 @@ An open community repository gathering resources, tools, and projects for all we
 
 ## About
 
-This repository aims to centralize everything related to web development: practical tutorials, popular tools, best practices, and collaborative projects. It's an open space for learning, sharing, and collaborating.
+I created this repository aims to centralize everything related to web development: practical tutorials, popular tools, best practices, and collaborative projects. It's an open space for learning, sharing, and collaborating.
 
 ## Repository Structure
 
